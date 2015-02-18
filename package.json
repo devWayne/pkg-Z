@@ -1,0 +1,19 @@
+{
+  "name": "Z",
+  "version": "0.0.1",
+  "description": "Web Package Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devWayne/Z.git"
+  },
+  "author": "Vi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devWayne/Z/issues"
+  },
+  "homepage": "https://github.com/devWayne/Z"
+}
