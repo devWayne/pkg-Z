@@ -1,5 +1,5 @@
 {
-  "name": "Z",
+  "name": "pkgz",
   "version": "0.1.1",
   "description": "Web Package Tool",
   "bin": "bin/cmd.js",
