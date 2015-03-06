@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var watchify = require('watchify');
 var fromArgs = require('watchify/bin/args');
 var program = require('commander');
